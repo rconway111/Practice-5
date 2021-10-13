@@ -1,2 +1,2 @@
-# Practice-5
+# Practice-5 and 6
 python practice 5
